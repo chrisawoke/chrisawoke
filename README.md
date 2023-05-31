@@ -1,6 +1,7 @@
 # 🏄‍♂️ Chris Awoke
 
-**`Software Engineer | Technical writer | Entrepreneur`**
+**`Software Engineer | Technical writer | Entrepreneur`** <br/>
+
 I'm an result-driven frontend software engineer with strong background in JavaScript, React & Tailwind with a passion for creating dynamic and engaging web experiences for B2B and B2C clients.
 
 ### 🧰 Languages and Tools
