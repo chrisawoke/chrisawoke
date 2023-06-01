@@ -9,12 +9,12 @@ I'm a value-driven frontend software engineer with strong background in JavaScri
 
 - 💻 Currently working on Growthpedia app using React.
 - 📝 I am currently learning Next.js and getting better at React.
-- 🧘🏻‍♀️ I love yoga, crafting and baking.
+- 💆🏻‍♀️ I love teaching, watching startup pitch and reading.
 - 📫 You can connect with me on [Twitter](https://www.twitter.com/Chris_Awoke1) and [LinkedIn](https://www.linkedin.com/in/chrisawoke).
 
 <br/>
 
-### 🧰 Languages and Tools
+### 🧰 My Tool Stack:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
