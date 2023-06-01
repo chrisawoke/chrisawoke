@@ -1,4 +1,6 @@
-![chris awoke header image](https://user-images.githubusercontent.com/chrisawokegithub.png)
+![Chris Awoke Header image](https://github.com/chrisawoke/chrisawoke/assets/115662426/7b44df90-c3ed-4f55-9406-4c00d2eb0afd)
+
+<hr/>
 
 **`Software Engineer | Technical writer | Entrepreneur`** <br/>
 
