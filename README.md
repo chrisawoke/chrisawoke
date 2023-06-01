@@ -1,8 +1,16 @@
-# 🏄‍♂️ Chris Awoke
+![chris awoke header image](https://user-images.githubusercontent.com/chrisawokegithub.png)
 
 **`Software Engineer | Technical writer | Entrepreneur`** <br/>
 
 I'm a result-driven frontend software engineer with strong background in JavaScript, React & Tailwind with a passion for creating dynamic and engaging web experiences for B2B and B2C clients.
+<hr/>
+
+- 💻 Currently working on Growthpedia app using React.
+- 📝 I am currently learning Next.js and getting better at React.
+- 🧘🏻‍♀️ I love yoga, crafting and baking.
+- 📫 You can connect with me on [Twitter](https://www.twitter.com/Chris_Awoke1) and [LinkedIn](https://www.linkedin.com/in/chrisawoke).
+
+<br/>
 
 ### 🧰 Languages and Tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
