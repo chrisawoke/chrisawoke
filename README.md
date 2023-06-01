@@ -2,7 +2,7 @@
 
 **`Software Engineer | Technical writer | Entrepreneur`** <br/>
 
-I'm a result-driven frontend software engineer with strong background in JavaScript, React & Tailwind with a passion for creating dynamic and engaging web experiences for B2B and B2C clients.
+I'm a value-driven frontend software engineer with strong background in JavaScript, React & Tailwind with a passion for creating dynamic and engaging web experiences for B2B and B2C clients.
 <hr/>
 
 - 💻 Currently working on Growthpedia app using React.
