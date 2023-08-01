@@ -4,12 +4,12 @@
 
 **`Software Engineer | Technical writer | Entrepreneur`** <br/>
 
-I'm a value-driven front-end software engineer with a strong background in JavaScript, React, and Tailwind CSS and a passion for creating dynamic and engaging web experiences for B2B and B2C clients.
+I'm a result-driven front-end software engineer with a strong background in JavaScript, React, and Tailwind CSS and a passion for creating dynamic and engaging web experiences for B2B and B2C clients.
 <hr/>
 
 - 💻 I am currently working on Growthpedia app using React.
 - 📝 I am currently learning Next.js and getting better at React.
-- 💆🏻‍♀️ I love teaching, watching startup pitches and reading.
+- 💆🏻‍♀️ I love teaching, watching startup pitches, and reading.
 - 📫 You can connect with me on [Twitter](https://www.twitter.com/Chris_Awoke1) and [LinkedIn](https://www.linkedin.com/in/chrisawoke).
 
 <br/>
