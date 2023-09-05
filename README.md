@@ -2,7 +2,7 @@
 
 <hr/>
 
-**`Software Engineer | Technical writer | Entrepreneur`** <br/>
+**`Frontend Software Engineer & Technical writer`** <br/>
 
 I'm a result-driven front-end software engineer with a strong background in JavaScript, React, and Tailwind CSS and a passion for creating dynamic and engaging web experiences for B2B and B2C clients.
 <hr/>
