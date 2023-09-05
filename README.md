@@ -14,7 +14,7 @@ I'm a result-driven front-end software engineer with a strong background in Java
 
 <hr/>
 
-- 📝 I create engaging, informative, and well-articulated technical content at [Tech Writing Hub](https://techwritinghub.com).
+- 📝 I write engaging, informative, and well-articulated technical content at [Tech Writing Hub](https://techwritinghub.com.ng).
 
 <br/>
 
