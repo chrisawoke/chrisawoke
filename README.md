@@ -7,10 +7,14 @@
 I'm a result-driven front-end software engineer with a strong background in JavaScript, React, and Tailwind CSS and a passion for creating dynamic and engaging web experiences for B2B and B2C clients.
 <hr/>
 
-- 💻 I am currently working on Growthpedia app using React.
+- 💻 I am building an EdTech platform using React and other technologies.
 - 📝 I am currently learning Next.js and getting better at React.
 - 💆🏻‍♀️ I love teaching, watching startup pitches, and reading.
 - 📫 You can connect with me on [Twitter](https://www.twitter.com/Chris_Awoke1) and [LinkedIn](https://www.linkedin.com/in/chrisawoke).
+
+<hr/>
+
+- 📝 I create engaging, informative, and well-articulated technical content at [Tech Writing Hub](https://techwritinghub.com).
 
 <br/>
 
@@ -23,6 +27,7 @@ I'm a result-driven front-end software engineer with a strong background in Java
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <!--
+
 **chrisawoke/chrisawoke** is a ✨ _unique_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
