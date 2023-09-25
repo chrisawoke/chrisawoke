@@ -4,17 +4,17 @@
 
 **`Frontend Software Engineer & Technical writer`** <br/>
 
-I'm a result-driven front-end software engineer with a strong background in JavaScript, React, and Tailwind CSS and a passion for creating dynamic and engaging web experiences for B2B and B2C clients.
+I'm a software engineer & technical writer with a bias for turning ideas into impactful digital solutions. I'm adept at simplifying complex technical concepts for both engineers and non-tech audiences.
 <hr/>
 
 - 💻 I am building an EdTech platform using React and other technologies.
 - 📝 I am currently learning Next.js and getting better at React.
-- 💆🏻‍♀️ I love teaching, watching startup pitches, and reading.
+- 💆🏻‍♀️ I love writing, watching startup pitches, and reading.
 - 📫 You can connect with me on [Twitter](https://www.twitter.com/Chris_Awoke1) and [LinkedIn](https://www.linkedin.com/in/chrisawoke).
 
 <hr/>
 
-- 📝 I create engaging, informative, and well-articulated technical content at [Tech Writing Hub](https://techwritinghub.com.ng).
+- 📝 I create engaging, informative, and well-articulated technical contents at [Tech Writing Hub](https://techwritinghub.com.ng).
 
 <br/>
 
