@@ -2,9 +2,9 @@
 
 <hr/>
 
-**`Frontend Software Engineer & Technical writer`** <br/>
+**`Frontend Software Engineer and Technical writer`** <br/>
 
-I'm a software engineer & technical writer with a bias for turning ideas into impactful digital solutions. I'm adept at simplifying complex technical concepts for both engineers and non-tech audiences.
+I am a software engineer and technical writer, experienced in turning ideas into impactful digital solutions and simplifying complex technical concepts for both engineers and non-technical audiences.
 <hr/>
 
 - 💻 I am building an EdTech platform using React and other technologies.
@@ -14,7 +14,7 @@ I'm a software engineer & technical writer with a bias for turning ideas into im
 
 <hr/>
 
-- 📝 I create engaging, informative, and well-articulated technical contents at [Tech Writing Hub](https://techwritinghub.com.ng).
+- 📝 I create engaging, informative, and well-articulated technical content at [Tech Writing Hub](https://techwritinghub.com.ng).
 
 <br/>
 
