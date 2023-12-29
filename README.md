@@ -1,4 +1,4 @@
-![Chris Awoke header image](https://github.com/chrisawoke/chrisawoke/assets/115662426/2fd866e9-de8a-4fd0-9c08-9e4a4af36cb7)
+![Chris Awoke](https://github.com/chrisawoke/chrisawoke/assets/115662426/5a791ed4-4c23-42bd-a735-1fce8c24f725)
 
 <hr/>
 
