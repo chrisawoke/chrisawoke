@@ -5,9 +5,10 @@
 ### Software Engineer and Technical writer <br/>
 
 I am a software engineer and technical writer, experienced in turning ideas into impactful digital solutions and simplifying complex technical concepts for both engineers and non-technical audiences.
+
 <hr/>
 
-- 💻 I am building an EdTech platform using Next.js and other technologies.
+- 💻 I am currently building an EdTech platform using the MERN stack and a few other technologies.
 - 📝 I am currently getting better at building with Next.js alongside trying out some backend tools.
 - 💆🏻‍♀️ I love writing, watching startup pitches, and reading.
 - 📫 You can connect with me on [Twitter](https://www.twitter.com/Chris_Awoke1) and [LinkedIn](https://www.linkedin.com/in/chrisawoke).
@@ -19,6 +20,7 @@ I am a software engineer and technical writer, experienced in turning ideas into
 <br/>
 
 ### 🧰 My Tool Stacks:
+
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
@@ -33,11 +35,6 @@ I am a software engineer and technical writer, experienced in turning ideas into
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-
-
-
-     
-
 
 <!--
 
