@@ -8,8 +8,8 @@ I am a software engineer and technical writer, experienced in turning ideas into
 
 <hr/>
 
-- 💻 I am currently building an EdTech platform using the MERN stack and a few other technologies.
-- 📝 I am currently getting better at building with Next.js alongside trying out some backend tools.
+- 💻 I am currently creating a Master Course on Data Analysis using Python.
+- 📝 I am also getting better at building with Next.js alongside trying out some backend tools.
 - 💆🏻‍♀️ I love writing, watching startup pitches, and reading.
 - 📫 You can connect with me on [Twitter](https://www.twitter.com/Chris_Awoke1) and [LinkedIn](https://www.linkedin.com/in/chrisawoke).
 
