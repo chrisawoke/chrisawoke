@@ -2,9 +2,9 @@
 
 <hr/>
 
-### Software Engineer and Technical writer <br/>
+### Software Engineer, Data Analyst and Technical writer <br/>
 
-I am a software engineer and technical writer, experienced in turning ideas into impactful digital solutions and simplifying complex technical concepts for both engineers and non-technical audiences.
+I bring a diverse skill set to my work, excelling as a software engineer and technical writer. My primary focus lies in data analytics, where I leverage my expertise to interpret data and derive meaningful insights. I also excel in simplifying complex technical concepts for various audiences.
 
 <hr/>
 
