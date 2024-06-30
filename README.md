@@ -5,7 +5,7 @@
 
 ### Software Engineer, Data Analyst and Technical writer <br/>
 
-I bring a diverse skill set to my work, excelling as a software engineer and technical writer. My primary focus lies in data analytics, where I leverage my expertise to interpret data and derive meaningful insights. I also excel in simplifying complex technical concepts for various audiences.
+I bring a diverse skill set to my work, excelling as a software engineer and technical writer. My primary focus lies in data analytics, where I leverage my expertise to interpret data and derive meaningful insights. I also excel in simplifying complex technical concepts for technical and non-technical audiences.
 
 <hr/>
 
