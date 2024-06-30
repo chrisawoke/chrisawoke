@@ -1,4 +1,5 @@
-![Chris Awoke](https://github.com/chrisawoke/chrisawoke/assets/115662426/5a791ed4-4c23-42bd-a735-1fce8c24f725)
+![GitHub Banner](https://github.com/chrisawoke/chrisawoke/assets/115662426/1bf9abd8-381e-4b6d-aeef-df1a74b4c329)
+
 
 <hr/>
 
