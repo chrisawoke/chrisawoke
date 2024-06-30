@@ -8,18 +8,20 @@ I am a software engineer and technical writer, experienced in turning ideas into
 
 <hr/>
 
-- 💻 I am currently creating a Master Course on Data Analysis using Python.
-- 📝 I am also getting better at building with Next.js alongside trying out some backend tools.
+- 📚 Author of `The Self-Taught Data Analyst`
+- 🤵 Founder, Self-Taught Data Lab
+- 💻 I am currently creating a Master Course on Data Analysis w/ Python.
 - 💆🏻‍♀️ I love writing, watching startup pitches, and reading.
 - 📫 You can connect with me on [Twitter](https://www.twitter.com/Chris_Awoke1) and [LinkedIn](https://www.linkedin.com/in/chrisawoke).
 
 <hr/>
 
-- 📝 I create engaging, informative, and well-articulated technical content at [Tech Writing Hub](https://techwritinghub.com.ng).
+- 📝 I create engaging, informative, and well-articulated software development technical content at [Tech Writing Hub](https://chrisawoke.hashnode.dev/).
+- To get my book, "The Self-Taught Data Analyst", [visit this page](https://selftaughtdatalab.com/data-analyst-book/)
 
 <br/>
 
-### 🧰 My Tool Stacks:
+### 🧰 My Best Tool Stacks:
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
