@@ -11,7 +11,7 @@ I bring a diverse skill set to my work, excelling as a software engineer and tec
 
 - 📚 Author of `The Self-Taught Data Analyst`
 - 🤵 Founder, Self-Taught Data Lab
-- 💻 Currently, I'm developing a Master Course on Data Analysis using Python.
+- 💻 Currently, I'm developing a Master Course on Data Analytics using Python.
 - 📖 Outside of work, I enjoy watching startup pitches and diving into insightful reads.
 - 📫 Connect with me on [Twitter](https://www.twitter.com/Chris_Awoke1) and [LinkedIn](https://www.linkedin.com/in/chrisawoke).
 
