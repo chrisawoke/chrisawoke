@@ -18,7 +18,6 @@ I bring a diverse skill set to my work, excelling as a software engineer and tec
 
 - 📝 I create engaging, informative, and well-articulated software development technical content at [Tech Writing Hub](https://chrisawoke.hashnode.dev/).
 - To get my book, "The Self-Taught Data Analyst", [visit this page](https://selftaughtdatalab.com/data-analyst-book/)
-- Read my [BLOG](https://selftaughtdatalab.com/blog/) on Data Science, Analytics, Machine Learning and everything Data!
 
 <br/>
 
