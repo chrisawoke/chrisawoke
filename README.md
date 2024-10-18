@@ -10,7 +10,7 @@ I bring a diverse skill set to my work, excelling as a software engineer and tec
 
 - 📚 Author of `The Self-Taught Data Analyst`
 - 🤵 Founder, Self-Taught Data Lab and Lead Visionary at Wise Breed Analytics
-- 💻 Currently, I'm developing a Master Course on Data Analytics using Python.
+- 💻 Currently, I'm rounding off my second book - "Simplified SQL and Database Design for Data Professionals".
 - 📖 Outside of work, I enjoy watching startup pitches and diving into insightful reads.
 - 📫 Connect with me on [Twitter](https://www.twitter.com/Chris_Awoke1) and [LinkedIn](https://www.linkedin.com/in/chrisawoke).
 
