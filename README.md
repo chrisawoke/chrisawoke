@@ -2,7 +2,7 @@
 
 <hr />
 
-## Software Engineer, Data Analyst and Tech Educator <br/>
+## Analytics Data Engineer, Tech Educator & Author <br/>
 
 I bring a diverse skill set to my work, excelling as a software engineer and technical writer. My primary focus lies in data analytics, where I leverage my expertise to interpret data and derive meaningful insights. I also excel in simplifying complex technical concepts for technical and non-technical audiences.
 
@@ -12,11 +12,10 @@ I bring a diverse skill set to my work, excelling as a software engineer and tec
 - 🤵 Founder, Self-Taught Data Lab and Lead Visionary at Wise Breed Analytics
 - 💻 Currently, I'm rounding off my second book - "Simplified SQL and Database Design for Data Professionals".
 - 📖 Outside of work, I enjoy watching startup pitches and diving into insightful reads.
-- 📫 Connect with me on [Twitter](https://www.twitter.com/Chris_Awoke1) and [LinkedIn](https://www.linkedin.com/in/chrisawoke).
+- 📫 Connect with me on [Twitter](https://www.twitter.com/chrisawoke_) and [LinkedIn](https://www.linkedin.com/in/chrisawoke).
 
 <hr/>
 
-- 📝 I create engaging, informative, and well-articulated software development technical content at [Tech Writing Hub](https://chrisawoke.hashnode.dev/).
 - To get my book, "The Self-Taught Data Analyst", [visit this page](https://selftaughtdatalab.com/data-analyst-book/)
 
 <br/>
