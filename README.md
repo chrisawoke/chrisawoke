@@ -1,22 +1,23 @@
-![GitHub Banner - Chris Awoke](https://github.com/user-attachments/assets/deea4e79-3651-49ee-94ce-44739e054cdb)
+
+<img width="1584" height="396" alt="LinkedIn Banner - Chris Awoke" src="https://github.com/user-attachments/assets/39f27573-7ebe-4de3-ab92-938004a1c018" />
 
 <hr />
 
 ## Analytics Data Engineer, Tech Educator & Author <br/>
 
-I bring a diverse skill set to my work, excelling as a software engineer and technical writer. My primary focus lies in data analytics, where I leverage my expertise to interpret data and derive meaningful insights. I also excel in simplifying complex technical concepts for technical and non-technical audiences.
+I’m Chris Awoke — a data professional, tech educator, and business growth strategist helping startups 
+and small businesses turn data into powerful insights that drive smarter decisions, better products, and revenue growth.
 
 <hr />
 
-- 📚 Author of `The Self-Taught Data Analyst`
-- 🤵 Founder, Self-Taught Data Lab and Lead Visionary at Wise Breed Analytics
-- 💻 Currently, I'm rounding off my second book - "Simplified SQL and Database Design for Data Professionals".
+- 🤵 Co-founder & Mentor at Self-Taught Data Lab (Data & Analytics Community)
+- 💻 Currently building "Africa’s Data & Digital Ecosystem for Business Growth and Talent" at [Wise Breed Analytics](https://wisebreedanalytics.com) (WBA Limited).
 - 📖 Outside of work, I enjoy watching startup pitches and diving into insightful reads.
-- 📫 Connect with me on [Twitter](https://www.twitter.com/chrisawoke_) and [LinkedIn](https://www.linkedin.com/in/chrisawoke).
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/chrisawoke).
 
 <hr/>
 
-- To get my book, "The Self-Taught Data Analyst", [visit this page](https://selftaughtdatalab.com/data-analyst-book/)
+- To get my book, click here 👉 [The Self-Taught Data Analyst](https://selftaughtdatalab.com/data-analyst-book/)
 
 <br/>
 
@@ -33,10 +34,10 @@ I bring a diverse skill set to my work, excelling as a software engineer and tec
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-<img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="CSS" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
 <img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
