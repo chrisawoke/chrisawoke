@@ -5,19 +5,17 @@
 
 ## Analytics Data Engineer, Tech Educator & Author <br/>
 
-I’m Chris Awoke — a data professional, tech educator, and business growth strategist helping startups 
-and small businesses turn data into powerful insights that drive smarter decisions, better products, and revenue growth.
+I’m Chris Awoke, a founder and builder working at the intersection of technology, AI, education, and business. I build products, platforms, and systems that help professionals and organisations develop practical capabilities and solve real-world problems.
 
 <hr />
 
-- 🤵 Co-founder & Mentor at Self-Taught Data Lab (Data & Analytics Community)
-- 💻 Currently building "Africa’s Data & Digital Ecosystem for Business Growth and Talent" at [Wise Breed Analytics](https://wisebreedanalytics.com) (WBA Limited).
-- 📖 Outside of work, I enjoy watching startup pitches and diving into insightful reads.
+- 💻 Africa’s data education and AI company via [Wikrena Limited](https://wikrena.com).
+- 🧠 Building and exploring practical applications of data, AI, and technology.
+- 📚 Interested in business, systems, learning, and personal growth.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/chrisawoke).
 
 <hr/>
 
-- To get my book, click here 👉 [The Self-Taught Data Analyst](https://selftaughtdatalab.com/data-analyst-book/)
 
 <br/>
 
