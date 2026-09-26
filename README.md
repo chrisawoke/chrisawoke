@@ -1,59 +1,46 @@
 
-<img width="1584" height="396" alt="LinkedIn Banner - Chris Awoke" src="https://github.com/user-attachments/assets/39f27573-7ebe-4de3-ab92-938004a1c018" />
+<img width="1500" height="500" alt="LinkedIn Banner - Chris Awoke (1500 x 500 px) (2)" src="https://github.com/user-attachments/assets/20a2500d-dab9-4da8-9141-94fee0c9905f" />
+
+
+
+## Data & AI Strategy · Analytics · Business Systems <br/>
+
+I’m Chris Awoke, a founder, data professional, and technology educator working at the intersection of data, AI, business, and technology.
+I build data-driven products, systems, and learning experiences, and I work with organizations and professionals to turn technology and data into practical business value.
+
+My work spans data analytics, AI strategy, business systems, technology products, and education, with a particular interest in how organizations can build better systems and develop the people who can use them.
+
+### What I Work On
+- 📊 Data analytics and business intelligence
+- 🤖 AI and its application in business
+- ⚙️ Business systems and technology
+- 🚀 Products and digital platforms
+- 🎓 Data and technology education
 
 <hr />
 
-## Analytics Data Engineer, Tech Educator & Author <br/>
-
-I’m Chris Awoke, a founder and builder working at the intersection of technology, AI, education, and business. I build products, platforms, and systems that help professionals and organisations develop practical capabilities and solve real-world problems.
-
-<hr />
-
-- 💻 Africa’s data education and AI company via [Wikrena Limited](https://wikrena.com).
-- 🧠 Building and exploring practical applications of data, AI, and technology.
-- 📚 Interested in business, systems, learning, and personal growth.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/chrisawoke).
-
-<hr/>
+### Current Work
+- 💻 Co-founder and CEO at [Wikrena Limited](https://wikrena.com), a data education and AI company.
+- 📚 Author of The [Self-Taught Data Analyst](https://paystack.shop/pay/job-ready-analyst), a practical guide for people building careers in data analytics.
+- 🛠️ Building and experimenting with products, data applications, AI tools, and business systems.
 
 
-<br/>
-
-### 🧰 My Best Tool Stacks:
-<!--
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> -->
+### Technologies & Tools:
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
 <img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<br />
 
-<!--
+<hr />
 
-**chrisawoke/chrisawoke** is a ✨ _unique_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/Website-chrisawoke.com-0a192f?style=flat)](https://chrisawoke.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chris%20Awoke-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/chrisawoke)
